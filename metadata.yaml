@@ -1,0 +1,28 @@
+_repo: The-History-of-the-Reign-of-Ferdinand-and-Isabella-the-Catholic-Volume-2_6967
+creator:
+  author:
+    agent_name: Prescott, William Hickling
+    aliases:
+    - Prescott, W. H. (William Hickling)
+    - Prescott, William H. (William Hickling)
+    birthdate: 1796
+    deathdate: 1859
+    gutenberg_agent_id: '553'
+    url: http://www.gutenberg.org/2009/agents/553
+    wikipedia: http://en.wikipedia.org/wiki/William_H._Prescott
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Isabella I, Queen of Spain, 1451-1504'
+- !lcsh 'Ferdinand V, King of Spain, 1452-1516'
+- !lcsh 'Spain -- History -- Ferdinand and Isabella, 1479-1516'
+- !lcc 'DP'
+title: The History of the Reign of Ferdinand and Isabella the Catholic — Volume 2
+url: http://www.gutenberg.org/ebooks/6967
